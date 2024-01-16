@@ -6,4 +6,4 @@ I'm a scientist working for the French National Institute of Agricultural Resear
 
 #### Play
 
-I try to use my data science skills to create algorithmic art. I published these works on my [art](https://art.casadebaig.net) website, with some posts in <a rel="me" href="https://ecoevo.social/@casadebaig">mastodon</a>. You can also find some [examples](https://github.com/picasa/generative_examples) along with the [tools](https://github.com/picasa/generate) i used for creative coding here. 
+I try to use my data science skills to create algorithmic art. I published selected works on my [art](https://art.casadebaig.net) website, along with considerations on the creation processes. You can also find some [examples](https://github.com/picasa/generative_examples) along with the [tools](https://github.com/picasa/generate) i used for creative coding here. 
